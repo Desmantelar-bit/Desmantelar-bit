@@ -1,49 +1,55 @@
 <div align="center">
-  <img src="https://cdn.gamma.app/cvkivc46hu7cus2/design-anything/z2T7PqOO1HT8lMyRs34Za/jnHOTHj6R-ZYd6rOxstlA.jpg" alt="banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Vinícius Morales — banner" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Vin%C3%ADcius+Morales;T%C3%A9cnico+de+desenvolvimento+de+sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=BB9AF7&center=true&vCenter=true&width=700&lines=Vin%C3%ADcius+Morales;T%C3%A9cnico+de+Desenvolvimento+de+Sistemas;Building+systems+that+hold" alt="typing" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,40:7aa2f7,70:bb9af7,100:7dcfff&height=140&section=header&text=&fontSize=42&animation=fadeIn" width="100%"/>
 </div>
 
 ---
 
-### 👋 Sobre
+### ⚡ Sobre
 
-Sou o **Vinícius Morales**, técnico de desenvolvimento de sistemas.  
-Gosto de construir coisas que funcionam de verdade — principalmente com **Python**, **Flutter** e um pouco de **Go**.
+**Vinícius Morales** — Técnico de Desenvolvimento de Sistemas.  
+Construo software com foco em resiliência, clareza de domínio e entrega real.
 
-Atualmente meu foco está no **fieldnode**, o projeto que mais me toma tempo (e atenção).
+Stack principal: **Python** e **Flutter**.  
+Projeto que concentra a maior parte da minha atenção: **[fieldnode](https://github.com/Desmantelar-bit/fieldnode)**.
 
 ---
 
-### 🔥 Projeto em destaque
+### 🔥 Flagship
 
 <table>
-  <tr>
-    <td width="70%">
-      <h3><a href="https://github.com/Desmantelar-bit/fieldnode">fieldnode</a></h3>
-      <p>Projeto principal em <strong>Python</strong>. É o repositório mais ativo do perfil e o que carrega as ideias que mais me interessam no momento.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/Desmantelar-bit/fieldnode?style=flat&logo=github&color=bb9af7" />
-        <img src="https://img.shields.io/github/last-commit/Desmantelar-bit/fieldnode?style=flat&color=7aa2f7" />
-        <img src="https://img.shields.io/github/languages/top/Desmantelar-bit/fieldnode?style=flat&color=7dcfff" />
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://github.com/Desmantelar-bit/fieldnode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Desmantelar-bit&repo=fieldnode&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="65%">
+
+### [fieldnode](https://github.com/Desmantelar-bit/fieldnode)
+
+Projeto core em **Python**.  
+Espaço de experimentação arquitetural, nós e engenharia ativa — o repositório mais vivo do perfil.
+
+<p>
+  <img src="https://img.shields.io/github/stars/Desmantelar-bit/fieldnode?style=for-the-badge&logo=github&color=bb9af7" />
+  <img src="https://img.shields.io/github/last-commit/Desmantelar-bit/fieldnode?style=for-the-badge&color=7aa2f7" />
+  <img src="https://img.shields.io/github/languages/top/Desmantelar-bit/fieldnode?style=for-the-badge&color=7dcfff" />
+</p>
+
+</td>
+<td width="35%" align="center">
+  <a href="https://github.com/Desmantelar-bit/fieldnode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Desmantelar-bit&repo=fieldnode&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
 </table>
 
 ---
@@ -51,7 +57,7 @@ Atualmente meu foco está no **fieldnode**, o projeto que mais me toma tempo (e 
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,go,js,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,postgres,docker,git,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -59,31 +65,37 @@ Atualmente meu foco está no **fieldnode**, o projeto que mais me toma tempo (e 
 ### 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Desmantelar-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desmantelar-bit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Desmantelar-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desmantelar-bit&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Desmantelar-bit&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Desmantelar-bit&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-morales-609744368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:viniciusmorales09@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="mailto:viniciusmorales09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Desmantelar-bit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,40:7aa2f7,70:bb9af7,100:7dcfff&height=110&section=footer" width="100%"/>
 </div>
